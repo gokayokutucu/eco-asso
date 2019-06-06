@@ -1,0 +1,11 @@
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/StandaloneExample.deps.json
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/StandaloneExample.runtimeconfig.json
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/StandaloneExample.runtimeconfig.dev.json
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/StandaloneExample.dll
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/StandaloneExample.pdb
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/StandaloneExample.csprojAssemblyReference.cache
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/StandaloneExample.csproj.CoreCompileInputs.cache
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/StandaloneExample.AssemblyInfoInputs.cache
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/StandaloneExample.AssemblyInfo.cs
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/StandaloneExample.dll
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/StandaloneExample.pdb

@@ -1,0 +1,11 @@
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/EcoAsso.deps.json
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/EcoAsso.runtimeconfig.json
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/EcoAsso.runtimeconfig.dev.json
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/EcoAsso.dll
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/bin/Debug/netcoreapp2.2/EcoAsso.pdb
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/EcoAsso.csprojAssemblyReference.cache
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/EcoAsso.csproj.CoreCompileInputs.cache
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/EcoAsso.AssemblyInfoInputs.cache
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/EcoAsso.AssemblyInfo.cs
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/EcoAsso.dll
+/Users/gokayokutucu/Downloads/gui.cs-master/StandaloneExample/obj/Debug/netcoreapp2.2/EcoAsso.pdb
