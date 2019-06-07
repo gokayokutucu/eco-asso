@@ -13,7 +13,7 @@ class EcologyAssociation {
 		var firstName = new Label (1, 1, "Name: ");
 		var firstNameText = new TextField (7, 1, 20, "") { Id = "firstName" };
 
-		var lastName = new Label (30, 1, "Lastname: ");
+		var lastName = new Label (30, 1, "Surname: ");
 		var lastNameText = new TextField (39, 1, 20, "") { Id = "lastName", CanFocus = true };
 
 		var phoneNumber = new Label (1, 3, "Phone: ");
